@@ -1,0 +1,3 @@
+one Connect Lcd pin
+two download or open (code.ino) file
+three upload code to your borad
